@@ -9,7 +9,7 @@ body {
   align-items: center;
   color: #eee;
   /* Adding a subtle background pattern that hints at the pixelation/energy burst */
-  background-image: url('dragon.jpeg'); /* Subtle diagonal lines */
+  background-image: url('./assets/dragon.jpeg'); /* Subtle diagonal lines */
   background-blend-mode: overlay;
   background-size: cover;
   /* background-size: 10px 10px; Make the pattern smaller and denser */
